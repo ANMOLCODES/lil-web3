@@ -8,7 +8,7 @@ lil web3 aims to build really simple, intentionally-limited versions of web3 pro
 
 > A stupidly-simple namespace implementation.
 
-lil ens contains a single function `register(string name)`, which allows an address to claim a name. \
+lil ens contains a single function `register(string name)`, which allows an address to claim a name.
 
 The key learning here is that the technical implementation of a namespace can be incredibly simple, and it's adoption (both of users and apps integrating with it) what makes it successful.
 
